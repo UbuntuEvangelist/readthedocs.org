@@ -7,3 +7,4 @@ pyquery
 python-memcached
 whoosh
 django-redis
+django>=2.2.21 # not directly required, pinned by Snyk to avoid a vulnerability
